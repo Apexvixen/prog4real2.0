@@ -1,0 +1,15 @@
+C:\Users\ytshi\source\repos\conselmon\obj\Debug\net7.0\conselmon.csproj.AssemblyReference.cache
+C:\Users\ytshi\source\repos\conselmon\obj\Debug\net7.0\conselmon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytshi\source\repos\conselmon\obj\Debug\net7.0\conselmon.AssemblyInfoInputs.cache
+C:\Users\ytshi\source\repos\conselmon\obj\Debug\net7.0\conselmon.AssemblyInfo.cs
+C:\Users\ytshi\source\repos\conselmon\obj\Debug\net7.0\conselmon.csproj.CoreCompileInputs.cache
+C:\Users\ytshi\source\repos\conselmon\bin\Debug\net7.0\conselmon.exe
+C:\Users\ytshi\source\repos\conselmon\bin\Debug\net7.0\conselmon.deps.json
+C:\Users\ytshi\source\repos\conselmon\bin\Debug\net7.0\conselmon.runtimeconfig.json
+C:\Users\ytshi\source\repos\conselmon\bin\Debug\net7.0\conselmon.dll
+C:\Users\ytshi\source\repos\conselmon\bin\Debug\net7.0\conselmon.pdb
+C:\Users\ytshi\source\repos\conselmon\obj\Debug\net7.0\conselmon.dll
+C:\Users\ytshi\source\repos\conselmon\obj\Debug\net7.0\refint\conselmon.dll
+C:\Users\ytshi\source\repos\conselmon\obj\Debug\net7.0\conselmon.pdb
+C:\Users\ytshi\source\repos\conselmon\obj\Debug\net7.0\conselmon.genruntimeconfig.cache
+C:\Users\ytshi\source\repos\conselmon\obj\Debug\net7.0\ref\conselmon.dll
