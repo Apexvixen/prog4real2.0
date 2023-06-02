@@ -11,23 +11,23 @@ namespace conselmon
         static void TestSkillFunctions()
         {
             Console.WriteLine("TestSkillFunctions");
-            Consolemon casterMon = new Consolemon();
-            Consolemon targetMon = new Consolemon();
+            ConsoleMon casterMon = new ConsoleMon();
+            ConsoleMon targetMon = new ConsoleMon();
             skill skill = new skill()
             {
-                dam = 100,
-                costenergy = 20,
+                damage = 100,
+                energyCost = 20,
             };
             skill.UseOn(targetMon, casterMon);
 
-            Console.WriteLine(targetMon.health == -100);
+            Console.WriteLine(targetMon.health == -150);
 
             Console.WriteLine(casterMon.energy == -20);
         }
         static void TestConsolemonFunctions()
         {
             Console.WriteLine("TestConsolemonFunctions");
-            Consolemon mon = new Consolemon();
+            ConsoleMon mon = new ConsoleMon();
             mon.TakeDamage(100);
             mon.DepleteEnergy(20);
 
@@ -37,9 +37,7 @@ namespace conselmon
         }
         static void Main(string[] arg)
         {
-            Console.WriteLine("goood bye");
-            TestConsolemonFunctions();
-            Console.WriteLine("no");
+            TestConsolemonFunctions()
             TestSkillFunctions();
         }
 

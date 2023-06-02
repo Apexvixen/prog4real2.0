@@ -9,13 +9,19 @@ namespace conselmon
 {
     internal class skill
     {
-        public int dam;
-        public int costenergy;
+
+        public int damage;
+        public int energyCost;
         public string name;
-        internal void UseOn(Consolemon tarrget, Consolemon caster)
+        internal Element element;
+        internal void UseOn(ConsoleMon target, ConsoleMon caster)
         {
-            caster.DepleteEnergy(costenergy);
-            tarrget.TakeDamage(dam);
+            caster.DepleteEnergy(energyCost);
+            target.TakeDamage(damage);
+            if (element == target.weakness)
+            {
+                target.TakeDamage(damage/2);
+            }
         }
 
     }

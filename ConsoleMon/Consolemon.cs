@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 
 namespace conselmon
 {
-    internal class Consolemon
+    internal class ConsoleMon
     {
         public int health;
         public int energy;
         public string name;
         private List<skill> Skills = new List<skill> { };
+
+        internal Element weakness; 
         internal void TakeDamage(int damage)
         {
             health -= damage;
@@ -21,5 +23,6 @@ namespace conselmon
         {
             this.energy -= energy;
         }
+
     }
 }
