@@ -1,0 +1,15 @@
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\bin\Debug\net7.0\coler.exe
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\bin\Debug\net7.0\coler.deps.json
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\bin\Debug\net7.0\coler.runtimeconfig.json
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\bin\Debug\net7.0\coler.dll
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\bin\Debug\net7.0\coler.pdb
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\obj\Debug\net7.0\coler.csproj.AssemblyReference.cache
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\obj\Debug\net7.0\coler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\obj\Debug\net7.0\coler.AssemblyInfoInputs.cache
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\obj\Debug\net7.0\coler.AssemblyInfo.cs
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\obj\Debug\net7.0\coler.csproj.CoreCompileInputs.cache
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\obj\Debug\net7.0\coler.dll
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\obj\Debug\net7.0\refint\coler.dll
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\obj\Debug\net7.0\coler.pdb
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\obj\Debug\net7.0\coler.genruntimeconfig.cache
+C:\Users\ytshi\OneDrive\Documenten\ma\bewijzenmap\periode.4\prog\prog4real2.0\coler\obj\Debug\net7.0\ref\coler.dll
