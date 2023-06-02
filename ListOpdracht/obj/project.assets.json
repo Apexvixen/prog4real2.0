@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ytshi\\OneDrive\\Documenten\\ma\\bewijzenmap\\periode.4\\prog\\prog4real2.0\\ConsoleMon\\conselmon.csproj",
-      "projectName": "conselmon",
-      "projectPath": "C:\\Users\\ytshi\\OneDrive\\Documenten\\ma\\bewijzenmap\\periode.4\\prog\\prog4real2.0\\ConsoleMon\\conselmon.csproj",
+      "projectUniqueName": "C:\\Users\\ytshi\\OneDrive\\Documenten\\ma\\bewijzenmap\\periode.4\\prog\\prog4real2.0\\ListOpdracht\\ListOpdracht.csproj",
+      "projectName": "ListOpdracht",
+      "projectPath": "C:\\Users\\ytshi\\OneDrive\\Documenten\\ma\\bewijzenmap\\periode.4\\prog\\prog4real2.0\\ListOpdracht\\ListOpdracht.csproj",
       "packagesPath": "C:\\Users\\ytshi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ytshi\\OneDrive\\Documenten\\ma\\bewijzenmap\\periode.4\\prog\\prog4real2.0\\ConsoleMon\\obj\\",
+      "outputPath": "C:\\Users\\ytshi\\OneDrive\\Documenten\\ma\\bewijzenmap\\periode.4\\prog\\prog4real2.0\\ListOpdracht\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ytshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
