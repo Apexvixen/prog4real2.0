@@ -37,7 +37,7 @@ namespace conselmon
         }
         static void Main(string[] arg)
         {
-            TestConsolemonFunctions()
+            TestConsolemonFunctions();
             TestSkillFunctions();
         }
 
