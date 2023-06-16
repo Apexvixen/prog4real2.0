@@ -11,7 +11,7 @@ namespace conselmon
         public int health;
         public int energy;
         public string name;
-        private List<skill> Skills = new List<skill> { };
+        private List<Skill> Skills = new List<Skill> { };
 
         internal Element weakness; 
         internal void TakeDamage(int damage)

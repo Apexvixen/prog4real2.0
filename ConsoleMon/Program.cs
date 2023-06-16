@@ -13,7 +13,7 @@ namespace conselmon
             Console.WriteLine("TestSkillFunctions");
             ConsoleMon casterMon = new ConsoleMon();
             ConsoleMon targetMon = new ConsoleMon();
-            skill skill = new skill()
+            Skill skill = new Skill()
             {
                 damage = 100,
                 energyCost = 20,

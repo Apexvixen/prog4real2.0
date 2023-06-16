@@ -7,7 +7,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace conselmon
 {
-    internal class skill
+    internal class Skill
     {
 
         public int damage;
